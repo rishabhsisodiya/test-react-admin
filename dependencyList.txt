@@ -1,0 +1,3 @@
+npm install react-admin ra-data-json-server prop-types
+npm install @material-ui/icons
+npm install @material-ui/core
